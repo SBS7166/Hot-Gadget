@@ -51,11 +51,14 @@ body{
 
 
 .contact {
-    background-color: rgb(206, 217, 226);
     text-align: center;
 }
 .contact input{
     padding:10px 20px;
     background-color: rgb(214, 207, 211);
     border-radius: 8px;
+}
+
+footer p{
+    text-align: center;
 }
